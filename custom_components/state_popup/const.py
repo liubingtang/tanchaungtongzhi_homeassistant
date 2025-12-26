@@ -1,0 +1,10 @@
+DOMAIN = "state_popup"
+PLATFORMS: list[str] = []
+CONF_ENTITIES = "entities"
+CONF_INCLUDE_DOMAINS = "include_domains"
+CONF_EXCLUDE_DOMAINS = "exclude_domains"
+CONF_COOLDOWN = "cooldown"
+CONF_BACKGROUND_URL = "background_url"
+CONF_TEXT_COLOR = "text_color"
+CONF_TEXT_POSITION = "text_position"
+CONF_FONT_SIZE = "font_size"
