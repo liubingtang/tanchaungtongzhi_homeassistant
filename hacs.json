@@ -1,7 +1,0 @@
-{
-  "name": "State Popup",
-  "domain": "state_popup",
-  "country": "ALL",
-  "render_readme": true,
-  "homeassistant": "2023.0.0"
-}
